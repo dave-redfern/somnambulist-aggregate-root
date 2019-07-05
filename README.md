@@ -1,3 +1,7 @@
+# Moved to https://github.com/dave-redfern/somnambulist-domain
+
+This repository has been archived. Please update to the combined package.s
+
 ## Aggregate Root
 
 Implements a generalised Aggregate Root for raising domain events in an entity. 
